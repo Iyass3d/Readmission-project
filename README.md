@@ -77,17 +77,7 @@ Test-set ROC-AUC (higher is better, 0.5 = random guessing):
 
 ---
 
-## Contributions
 
-| Member | Role | Parts |
-|---|---|---|
-| Iyas Alshahrani | Problem framing, data quality and feature engineering | A, B, C |
-| [Name 2] | Modelling, interpretation and hospital summary | D, E, F |
-| Both | Report writing, notebook review and reproducibility check | All |
-
-Both members reviewed the whole project and can explain any part of it.
-
----
 
 ## Limitations
 
