@@ -45,18 +45,6 @@ The results are reproducible: a fixed random seed (`random_state = 42`) is used 
 
 ---
 
-## What was done (Parts A–F)
-
-| Part | Topic | In one sentence |
-|---|---|---|
-| **A** | Problem framing | Predict readmission within 30 days, at discharge, using only variables known at that time |
-| **B** | Data quality and EDA | Cleaned the data, studied missing values, and checked how each variable relates to readmission |
-| **C** | Feature engineering | Grouped diagnosis codes and rare categories, and created new features (e.g. total prior visits) |
-| **D** | Modelling | Trained and tuned four models: Logistic Regression, Random Forest, SVM and KNN |
-| **E** | Interpretation and fairness | Found the most important features and compared model errors across gender, age and race |
-| **F** | Summary for the hospital | A one-page plain-language summary for the Chief Medical Officer |
-
----
 
 ## Key choices (why the results can be trusted)
 
